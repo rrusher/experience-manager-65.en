@@ -118,14 +118,14 @@ The following snippet shows the differences, in [unified diff format](https://en
 @@ -120,6 +120,12 @@
              <scope>provided</scope>
          <dependency>
-+            <groupid>com.day.cq</groupid>
-+            <artifactid>cq-search</artifactid>
++            <groupId>com.day.cq</groupId>
++            <artifactId>cq-search</artifactId>
 +            <version>5.6.4</version>
 +            <scope>provided</scope>
 +        </dependency>
 +        <dependency>
-             <groupid>junit</groupid>
-             <artifactid>junit</artifactid>
+             <groupId>junit</groupId>
+             <artifactId>junit</artifactId>
              <version>3.8.1</version></dependency>
 ```
 
